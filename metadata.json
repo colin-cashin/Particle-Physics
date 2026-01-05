@@ -1,0 +1,7 @@
+{
+  "name": "Physics ZenParticles - Interactive 3D Gesture System",
+  "description": "A high-performance 3D particle system using Three.js that responds to hand gestures via Gemini Vision. Choose from multiple sacred and geometric templates like Hearts, Flowers, and Buddha silhouettes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
